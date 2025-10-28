@@ -1,4 +1,4 @@
-const SERVER_URL = "http://localhost:3000";
+const SERVER_URL = "https://student-api-backend-bv0d.onrender.com";
 
 // функции для работы с сервером
 // Получение студентов с сервера с применением фильтров (если есть)
